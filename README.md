@@ -36,9 +36,7 @@ MT Tools includes a collection of commonly used utilities, such as:
 
 ## 📦 Installation
 
-1. Download the latest `.exe` file from the releases section.
-2. Run the installer.
-3. Launch MT Tools from the Start Menu or Desktop shortcut.
+Installation packages will be available soon.
 
 ---
 
@@ -61,3 +59,5 @@ Creator & Developer of MT Tools
 - MT Tools is under active development.
 - Bugs, suggestions, and feature requests are welcome.
 - This project aims to introduce users to practical desktop tools with a clean and modern design.
+- MT Tools reached its final official release with v7.2.
+- The spirit of the project continues in Phoenix Ultra.
