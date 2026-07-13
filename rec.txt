@@ -1,0 +1,9 @@
+customtkinter
+jdatetime
+numexpr
+ultralytics
+opencv-python
+requests
+openai
+psutil
+deep_translator
