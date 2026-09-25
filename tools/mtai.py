@@ -7,7 +7,7 @@ import threading
 
 # ایجاد یک نمونه از کلاینت با کلید API
 client = OpenAI(
-    api_key='sk-osaqyVCV2nVa1OEGXNvgpvvCr6uOG5Wc90MIM5jK1jZjL4LG',
+    api_key='api',
     base_url='https://api.gapgpt.app/v1'
 )
 SYSTEM_PROMPT = """
